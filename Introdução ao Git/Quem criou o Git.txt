@@ -1,0 +1,14 @@
+- # Quem criou o Git?
+
+  ## *Linus Torvalds*
+
+  O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+
+  
+
+  > LINKS ÚTEIS
+  >
+  > Referências:
+
+  [O que é Git?](https://www.atlassian.com/br/git/tutorials/what-is-git#:~:text=O%20Git%20%C3%A9%20um%20projeto,kernel%20do%20sistema%20operacional%20Linux.)
+

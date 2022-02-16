@@ -1,0 +1,5 @@
+O GitHub, pelo que aprendi, é um servidor remoto de repositório. 
+
+Com ele posso compartilhar meus repositórios, projetos com outras pessoas, para que colaboremos e assim melhorarmos o código. 
+
+> Inclusive, o amigo que me recomendou esse curso e eu, já estamos pensando em trabalhar juntos em alguns projetos.
